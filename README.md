@@ -1,5 +1,6 @@
 ## Loan-Calculator
 Simple Loan Calculating App
+Version - 1.0.0.
 
 > [View Project >>](https://shawprojects.github.io/loan-calculator/ "Loan Calculator")
 ___
