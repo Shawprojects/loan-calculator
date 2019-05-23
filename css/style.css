@@ -1,0 +1,60 @@
+/* Utilities */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.brand {
+  color: red;
+}
+
+/* Navbar */
+
+.navbar {
+  border-bottom: 2px solid #333;
+}
+
+.bg-image {
+  background: #333 url("../img/background.png") no-repeat center center/cover;
+}
+
+.line {
+  border: 1px solid #ccc;
+}
+
+#loading,
+#results {
+  display: none;
+}
+
+.main {
+  margin-top: 50px;
+  margin-bottom: 90px;
+}
+
+/* Social */
+
+.social a .fab {
+  font-size: 1.3rem;
+  padding-right: 1rem;
+  color: #333;
+  text-decoration: none;
+}
+
+/* Footer */
+
+#main-footer {
+  border-top: 2px solid #333;
+  padding: 0.5rem;
+  color: #333;
+  background: #fff;
+}
+
+#main-footer a {
+  color: #333;
+}
